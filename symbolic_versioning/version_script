@@ -1,0 +1,7 @@
+LIB_SIMPLE_1.0
+{
+  global:
+    first_func;second_func;
+  local:
+    *;
+};
