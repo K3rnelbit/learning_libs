@@ -1,0 +1,1 @@
+void using_dynamic_func(void);

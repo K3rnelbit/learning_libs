@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-g3",
+      "-I",
+      "headers",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-c",
+      "-o",
+      "c.o",
+      "sources/c.c"
+    ],
+    "directory": "/home/swiatoslaw/code/cpp/compilation",
+    "file": "/home/swiatoslaw/code/cpp/compilation/sources/c.c",
+    "output": "/home/swiatoslaw/code/cpp/compilation/c.o"
+  }
+]

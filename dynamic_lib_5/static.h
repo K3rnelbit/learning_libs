@@ -1,0 +1,1 @@
+void using_static_func(void);
