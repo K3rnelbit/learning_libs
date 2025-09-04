@@ -1,0 +1,42 @@
+LIB_1.0
+{
+  global:
+    first_func;second_func;third_func;
+  local:
+  *;
+};
+LIB_SIMPLE1.0
+{
+  global:
+    first_func;second_func;third_func;
+  local:
+  *;
+};
+LIB_SIMPLE.1.1
+{
+  global:
+    first_func; second_func; third_func; func_five;
+  local:
+    *;
+};
+LIB_.1.1
+{
+  global:
+    first_func; second_func; third_func; func_five;
+  local:
+    *;
+};
+LIB_2.0
+{
+  global:
+    first_func; 
+  local:
+    *;
+};
+LIB_3.0
+{
+  global:
+    first_func;
+  local:
+    *;
+};
