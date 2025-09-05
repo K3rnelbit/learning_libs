@@ -1,0 +1,14 @@
+LIB_1.0
+{
+  global:
+    func_one;
+  local:
+    *;
+};
+LIB_2.0
+{
+  global:
+    func_one;
+  local:
+    *;
+};

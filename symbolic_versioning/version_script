@@ -5,3 +5,10 @@ LIB_SIMPLE_1.0
   local:
     *;
 };
+LIB_SIMPLE_1.1
+{
+  global:
+    new_func_1;
+  local:
+    *;
+};
